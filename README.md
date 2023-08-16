@@ -31,8 +31,8 @@
 ```py
 class Profile():
     def __init__(self):
-        self.name = "Uche Ofia"
-        self.email = "coolucheofia@gmail.com"
+        self.name = "Gloria Nwaigba"
+        self.email = "glorianwaigba@gmail.com"
         self.country = "Nigeria"
         self.title = "Software Engineer"
         self.specilization = {"Backend", "APIs", "Database"}
@@ -41,7 +41,7 @@ class Profile():
         self.software = ["Excel", "Illustrator", "Blender"]
         self.degree = "Electrical & Electronics Engineering"
         self.linkedin = "https://www.linkedin.com/in/cofucan"
-        self.twitter = "@coolucheofia"
+        self.twitter = "@bellafinegirl"
 ```
 <!--
 **Nwaigba66/Nwaigba66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
