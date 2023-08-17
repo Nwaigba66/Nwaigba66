@@ -5,10 +5,10 @@
 
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/cofucan">
+  <a href="https://www.linkedin.com/in/gloria-nwaigba-92839045/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:coolucheofia@gmail.com">
+  <a href="mailto:glorianwaigba@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/coolucheofia">
@@ -33,14 +33,12 @@ class Profile():
     def __init__(self):
         self.name = "Gloria Nwaigba"
         self.email = "glorianwaigba@gmail.com"
-        self.country = "Nigeria"
         self.title = "Software Engineer"
-        self.specilization = {"Backend", "APIs", "Database"}
-        self.other_titles = ["Data Analyst", "Graphics Designer"]
-        self.languages = ["Python", "C/C++", "Rust", "Javascript", "SQL", "HTML/CSS"]
-        self.software = ["Excel", "Illustrator", "Blender"]
-        self.degree = "Electrical & Electronics Engineering"
-        self.linkedin = "https://www.linkedin.com/in/cofucan"
+        self.specilization = {"Frontend", "Backend", "APIs", "Database"}
+        self.other_titles = ["Data Analyst", "UI/UX Designer", "Project Manager", "Scrum Master",]
+        self.languages = ["Python", "C/C++", "React", "Javascript", "SQL", "HTML/CSS"]
+        self.software = ["Excel", "Github", "Illustrator", "Figma", "Salesforce","ServiceNow","ProjectOnline", "Hubspot",]
+        self.linkedin = "https://www.linkedin.com/in/gloria-nwaigba-92839045/"
         self.twitter = "@bellafinegirl"
 ```
 ---
