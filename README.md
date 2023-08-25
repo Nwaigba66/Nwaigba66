@@ -11,7 +11,7 @@
   <a href="mailto:glorianwaigba@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/coolucheofia">
+  <a href="https://twitter.com/bellafinegirl">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -35,7 +35,7 @@ class Profile():
         self.email = "glorianwaigba@gmail.com"
         self.title = "Software Engineer"
         self.specilization = {"Frontend", "Backend", "APIs", "Database"}
-        self.other_titles = ["Data Analyst", "UI/UX Designer", "Project Manager", "Scrum Master",]
+        self.other_titles = ["Data Analyst", "UI/UX Designer", "Project Manager", "Scrum Master", "ITIL V.4"]
         self.languages = ["Python", "C/C++", "React", "Javascript", "SQL", "HTML/CSS"]
         self.software = ["Excel", "Github", "Illustrator", "Figma", "Salesforce","ServiceNow","ProjectOnline", "Hubspot",]
         self.linkedin = "https://www.linkedin.com/in/gloria-nwaigba-92839045/"
